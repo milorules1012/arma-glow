@@ -66,3 +66,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Arma / HEMTT
+*.pbo
+.hemttout
+.hemttprivatekey
+*.biprivatekey
