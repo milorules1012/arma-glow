@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ArmaGlow">
+	<Package name="ArmaGlow">
+		<Container name="Common">
+			<Key ID="STR_ARMAGLOW_Loaded">
+				<Original>Loaded</Original>
+				<English>Loaded</English>
+			</Key>
+		</Container>
+	</Package>
+</Project>
